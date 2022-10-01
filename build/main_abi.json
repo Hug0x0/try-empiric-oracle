@@ -1,0 +1,86 @@
+[
+    {
+        "inputs": [],
+        "name": "btc_price",
+        "outputs": [
+            {
+                "name": "price",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "eth_price",
+        "outputs": [
+            {
+                "name": "price",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "usdt_price",
+        "outputs": [
+            {
+                "name": "price",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "dai_price",
+        "outputs": [
+            {
+                "name": "price",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "usdc_price",
+        "outputs": [
+            {
+                "name": "price",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "tusd_price",
+        "outputs": [
+            {
+                "name": "price",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "busd_price",
+        "outputs": [
+            {
+                "name": "price",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    }
+]
